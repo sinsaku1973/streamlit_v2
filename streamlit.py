@@ -10,7 +10,7 @@ import streamlit as st
 # In[2]:
 
 
-st.title('streamlit 超入門5')
+st.title('streamlit 超入門6')
 
 
 # In[ ]:
