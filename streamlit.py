@@ -24,7 +24,12 @@ st.write('文字列')
 # In[ ]:
 
 
+a = 10
+b = 20
 
+c = a + b
+
+st.write(c)
 
 
 # In[ ]:
