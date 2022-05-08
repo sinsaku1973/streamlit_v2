@@ -16,7 +16,9 @@ st.title('streamlit 超入門6')
 # In[ ]:
 
 
-
+st.header('ヘッダー')
+st.subheader('サブヘッダー')
+st.write('文字列') 
 
 
 # In[ ]:
